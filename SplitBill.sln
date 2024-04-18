@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split Library", "Split Library\Split Library.csproj", "{77E38F1E-891B-405C-97C6-A935519534E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitBillTest", "SplitBillTest\SplitBillTest.csproj", "{21B87828-DF73-46FE-A929-F90668D9FC3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{77E38F1E-891B-405C-97C6-A935519534E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77E38F1E-891B-405C-97C6-A935519534E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77E38F1E-891B-405C-97C6-A935519534E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B87828-DF73-46FE-A929-F90668D9FC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B87828-DF73-46FE-A929-F90668D9FC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B87828-DF73-46FE-A929-F90668D9FC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B87828-DF73-46FE-A929-F90668D9FC3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
